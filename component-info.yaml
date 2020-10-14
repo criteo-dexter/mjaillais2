@@ -6,7 +6,7 @@ metadata:
   annotations: 
     github.com/project-slug: criteo-dexter/mjaillais2
     backstage.io/github-actions-id: criteo-dexter/mjaillais2
-    jenkins.io/github-folder: 'job/testfwk-pythonclient-post-submit'
+    jenkins.io/github-folder: 'job/thirdparty-garmadon'
 spec:
   type: service
   lifecycle: experimental
